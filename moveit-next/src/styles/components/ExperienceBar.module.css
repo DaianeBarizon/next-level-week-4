@@ -1,3 +1,7 @@
+.experienceBarContainer {
+  margin-bottom: 5rem;
+}
+
 .experienceBar {
   display: flex;
   align-items: center;
