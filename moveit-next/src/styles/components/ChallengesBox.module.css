@@ -63,6 +63,10 @@
   justify-content: center;
 }
 
+.challengeActive main img {
+  font-size: 1rem;
+}
+
 .challengeActive main strong {
   font-size: 2rem;
   font-weight: 600;
